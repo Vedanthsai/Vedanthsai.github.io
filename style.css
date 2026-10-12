@@ -1,13 +1,5 @@
-/* style.css */
-@import url('https://fonts.googleapis.com/css2?family=Bodoni&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bodoni+Moda&display=swap');
 
-body {
-  font-family: "Bodoni", sans-serif;
-  text-align: center;
-}
+body { font-family: "Bodoni Moda", serif; text-align: center; }
 
-img {
-  width: 300px;
-  height: auto;
-  margin: 10px;
-}
+img { width: 300px; height: auto; margin: 10px; }
