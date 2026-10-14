@@ -1,5 +1,25 @@
 @import url('https://fonts.googleapis.com/css2?family=Bodoni+Moda&display=swap');
 
-body { font-family: "Bodoni Moda", serif; text-align: center; }
+body {
+  font-family: "Bodoni Moda", serif;
+  text-align: center;
+  color: white;
+}
 
-img { width: 300px; height: auto; margin: 10px; }
+h1 {
+  color: gold;
+}
+
+h2 {
+  color: crimson;
+}
+
+p {
+  color: white;
+}
+
+img {
+  width: 300px;
+  height: auto;
+  margin: 10px;
+}
